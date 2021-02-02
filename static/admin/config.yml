@@ -1,7 +1,7 @@
 backend:
-  name: github
+  name: git-gateway
   # change repo to your git repository url
-  repo: W3Layouts/gatsby-starter-delog
+  repo: https://github.com/ImJakeDev/sarahbosak-gatsby-website
 
 media_folder: static/assets
 public_folder: /assets
