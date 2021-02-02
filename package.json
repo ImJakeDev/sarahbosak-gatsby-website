@@ -8,6 +8,10 @@
     "url": "https://github.com/W3Layouts/gatsby-starter-delog/issues"
   },
   "dependencies": {
+    "@reach/dialog": "^0.13.0",
+    "@reach/tabs": "^0.13.0",
+    "@reach/visually-hidden": "^0.13.0",
+    "dotenv": "^8.2.0",
     "gatsby": "^2.31.1",
     "gatsby-plugin-dark-mode": "^1.1.1",
     "gatsby-plugin-google-analytics": "^2.1.36",
@@ -27,7 +31,9 @@
     "prismjs": "^1.19.0",
     "react": "^16.12.0",
     "react-dom": "^16.12.0",
-    "react-helmet": "^5.2.1"
+    "react-helmet": "^5.2.1",
+    "react-netlify-identity": "^0.2.5",
+    "react-netlify-identity-widget": "^0.2.7"
   },
   "devDependencies": {
     "prettier": "^1.19.1"
