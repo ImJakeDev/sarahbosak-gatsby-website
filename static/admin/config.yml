@@ -1,7 +1,6 @@
 backend:
   name: git-gateway
-  # change repo to your git repository url
-  repo: https://github.com/ImJakeDev/sarahbosak-gatsby-website
+  branch: main
 
 media_folder: static/assets
 public_folder: /assets
